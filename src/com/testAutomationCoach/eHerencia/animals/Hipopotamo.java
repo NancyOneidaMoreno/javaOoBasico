@@ -1,6 +1,6 @@
 package com.testAutomationCoach.eHerencia.animals;
 
-public class Hipopotamo  extends Animal {
+public class Hipopotamo  extends Animal.Paquidermo {
 
     public void hacerRuido() {
         System.out.println("Muuuu");

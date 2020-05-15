@@ -24,5 +24,11 @@ public class Animal {
 	public static class Felino extends Animal {
 
 		public void recorrerTerreno() {}
+
+	}
+	public static class Paquidermo extends Animal {
+
+		public void recorrerTerreno() {}
+
 	}
 }
